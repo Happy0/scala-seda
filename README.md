@@ -1,0 +1,4 @@
+scala-seda
+==========
+
+Scala-SEDA
